@@ -90,12 +90,13 @@ h3{
   }
 .beeld_12{
   width: 300px;
+}
 .beeld_13{
   width: 300px;
-  }
+}
 .beeld_14{
   width: 300px;
-  }
+}
 .beeld_15{
   width: 300px;
   }
@@ -123,7 +124,7 @@ h3{
 }
 
 .beeld_23{
-  width:100px;
+  width:300px;
 }
 
 .beeld_24{
@@ -188,13 +189,13 @@ h3{
 
 
 .cycle-prev {
-	font-size: 2em;
-	color:black; 
+  font-size: 2em;
+  color:black; 
   vertical-align: 0em; 
 }
 .cycle-next {
-	font-size: 2em;
-	color:#black;
+  font-size: 2em;
+  color:#black;
   vertical-align: 0em;   
 }
 
