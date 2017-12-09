@@ -1,7 +1,46 @@
 body {
   background-color: #F0FFFF;
-  position: relative;
+  margin: 0;
 }
+
+.cracker{ 
+  font-size: 10px;
+  color: #B22222;
+  font-family: 'VT323', monospace;
+  padding: 0px;
+  position: fixed;
+  width: 20%;
+}
+
+
+.middenwrapper {
+  position: absolute;
+  left: 20%;
+  width: 80%;
+}
+
+.left {
+  width: 50%;
+  height: 1800px;
+  background: #ff005d;
+  color: #fff;
+  float: left;
+  text-align: center;
+}
+
+.right {
+  width: 50%;
+  height: 1800px;
+  margin-top: -1500px; /*Start offset, put it at same as*/
+  background: #191f27;
+  color: #35ff99;
+  float: left;
+  text-align: centeR;
+}
+
+
+
+
 #menu {
   background-color: #F0FFFF;
   position: fixed;
@@ -10,13 +49,49 @@ body {
   bottom: 0;
   width: 180px;
 }
+
+
+.middenwrapper .left img,
+.middenwrapper .right img {
+  width: 100%!important
+}
+
+.cracker_scroller {
+  overflow-y: scroll;
+  height: 100vh
+}
+
+.cracker ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding: 0
+}
+
+.cracker ul li {
+  margin-left: 0;
+}
+
+
 #wrapper {
-  padding-top: 40px;
-  width: 900px;
-  height: 2000px;
+  margin-left: 200px;
+  width: 700px;
   position: absolute;
-  padding-left: 60px;
-  left:200px;
+}
+
+.wrapper_scroller {
+  overflow-y: scroll;
+  height: 100vh
+}
+
+.txtdiv {
+  position: absolute;
+  margin-left: 900px;
+  width: 100%;
+}
+
+.txtdiv_scroller {
+  overflow-y: scroll;
+  height: 100vh
 }
 
 
@@ -43,15 +118,7 @@ h3{
   font-size: 10px; 
   padding-right: 10px;
 }
-.cracker{
-  font-size: 10px;
-  color: #B22222;
-  font-family: 'VT323', monospace;
-  padding: 0px;
-  position: fixed;
-  z-index:3;
 
-}
 .beeld_1{
   width: 300px;
   }
