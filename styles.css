@@ -22,7 +22,7 @@ body {
 .left {
   width: 50%;
   height: 1800px;
-  background: #ff005d;
+  background: #F0FFFF;
   color: #fff;
   float: left;
   text-align: center;
@@ -32,8 +32,8 @@ body {
   width: 50%;
   height: 1800px;
   margin-top: -1500px; /*Start offset, put it at same as*/
-  background: #191f27;
-  color: #35ff99;
+  background: #F0FFFF;
+  color: #F0FFFF;
   float: left;
   text-align: centeR;
 }
