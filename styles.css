@@ -1,5 +1,5 @@
 body {
-  background-color: #F0FFFF;
+  background-color: #bbbdc0;
   margin: 0;
 }
 
@@ -22,8 +22,8 @@ body {
 .left {
   width: 50%;
   height: 1800px;
-  background: #F0FFFF;
-  color: #fff;
+  background: #000000;
+  color: #000000;
   float: left;
   text-align: center;
 }
@@ -32,8 +32,8 @@ body {
   width: 50%;
   height: 1800px;
   margin-top: -1500px; /*Start offset, put it at same as*/
-  background: #F0FFFF;
-  color: #F0FFFF;
+  background: #000000;
+  color: #000000;
   float: left;
   text-align: centeR;
 }
@@ -96,11 +96,11 @@ body {
 
 
 h1{
-  color: #B22222;
-  left:  10 px;
+  color: #000000;
+  left:  10px;
   padding: 10px;
-  font-family: 'VT323', monospace;
-  font-size: 30px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20#000000px;
 
 }
 h2{
