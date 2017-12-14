@@ -12,6 +12,12 @@ body {
   width: 20%;
 }
 
+a:hover{
+  color:#ff0000;
+}
+a:visited{
+  color:#ff0080;
+}
 
 .middenwrapper {
   position: absolute;
@@ -99,7 +105,9 @@ h1{
   color: #000000;
   left:  10px;
   padding: 10px;
-  font-family: 'Orbitron', sans-serif;
+  font-size: 300%;
+  font-family: arial;
+  font-weight: normal;
   font-size: 20#000000px;
 
 }
@@ -249,7 +257,6 @@ h3{
 .beeld_39{
   width:300px;
 }
-
 
 
 
