@@ -1,5 +1,5 @@
 body {
-  background-color: #bbbdc0;
+  background-color: white;
   margin: 0;
 }
 
@@ -28,8 +28,8 @@ a:visited{
 .left {
   width: 50%;
   height: 1800px;
-  background: #000000;
-  color: #000000;
+  background: white;
+  color: white;
   float: left;
   text-align: center;
 }
@@ -38,10 +38,10 @@ a:visited{
   width: 50%;
   height: 1800px;
   margin-top: -1500px; /*Start offset, put it at same as*/
-  background: #000000;
+  background: white;
   color: #000000;
   float: left;
-  text-align: centeR;
+  text-align: center;
 }
 
 
@@ -105,10 +105,10 @@ h1{
   color: #000000;
   left:  10px;
   padding: 10px;
-  font-size: 300%;
-  font-family: arial;
+  font-size: 180%;
+  font-family: monospace;
   font-weight: normal;
-  font-size: 20#000000px;
+  
 
 }
 h2{
@@ -199,7 +199,7 @@ h3{
 }
 
 .beeld_23{
-  width:300px;
+  width:50%;
 }
 
 .beeld_24{
@@ -257,6 +257,49 @@ h3{
 .beeld_39{
   width:300px;
 }
+
+.beeld_40{
+  width:50%;
+}
+
+.beeld_41{
+  width:50%;
+}
+
+.beeld_42{
+  width:50%;
+}
+
+.beeld_43{
+  width:50%;
+}
+
+.beeld_44{
+  width:50%;
+}
+
+
+.beeld_45{
+  width:50%;
+}
+
+
+.beeld_46{
+  width:50%;
+}
+
+.beeld_47{
+  width:50%;
+}
+
+.beeld_48{
+  width:50%;
+}
+
+.beeld_49{
+  width:50%;
+}
+
 
 
 
